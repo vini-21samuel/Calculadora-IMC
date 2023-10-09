@@ -1,4 +1,4 @@
-print("Olá seja bem vindos, insira as informações abaixo.")
+print("Olá seja bem vindo, insira as informações abaixo.")
 nome= input("Digite seu nome: ")
 peso= float(input("informe seu peso: "))
 altura= float(input("informe sua altura: "))
